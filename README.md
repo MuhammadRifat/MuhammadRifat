@@ -1,4 +1,4 @@
-## I'm Muhammad Rifat
+# I'm Muhammad Rifat
 Passionate developer with deep knowledge of different front-end and back-end languages, frameworks, databases, and best code practices. The goal is simply to be the best developer and continuously enhance skills, strengthen knowledge, and explore new technology.
 
 
