@@ -1,6 +1,5 @@
 # I'm Muhammad Rifat
-Passionate developer with deep knowledge of different front-end and back-end languages, frameworks, databases, and best code practices. The goal is simply to be the best developer and continuously enhance skills, strengthen knowledge, and explore new technology.
-
+An enthusiastic and skilled software developer who has just started his career in the technology industry. Proven ability to design, develop, and deploy high-performance systems and learn new technologies quickly. Also have strong problem-solving, analytical, and teamwork skills. The goal is continuously to enhance skills, strengthen knowledge, and explore new technology.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRifat)](https://github.com/MuhammadRifat/)
 
