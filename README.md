@@ -1,5 +1,5 @@
 # I'm Muhammad Rifat
-An experienced and skilled software developer who is driven by an unwavering passion for the field of software development. Proven ability to design, develop, and deploy high-performance systems and learn new technologies quickly. Also have strong problem-solving, analytical, and teamwork skills. The goal is continuously to enhance skills, strengthen knowledge, and explore new technology.
+An enthusiastic Programmer who is driven by an unwavering passion for the field of software development. Proven ability to design, develop, and deploy high-performance systems and learn new technologies quickly. Also have strong problem-solving, analytical, and teamwork skills. The goal is continuously to enhance skills, strengthen knowledge, and explore new technologies.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRifat)](https://github.com/MuhammadRifat/)
 
